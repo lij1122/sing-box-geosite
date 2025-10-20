@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "koyso",
+        "v2ex"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1dot1dot1dot1.cloudflare-dns.com",
+        "cloudflare-dns.com",
+        "dns.google",
+        "dns.quad9.net",
+        "dns.umbrella.com",
+        "doh.dns.sb",
+        "doh.opendns.com",
+        "dot.sb",
+        "dpdns.org",
+        "hk-hkg.doh.sb",
+        "lij.us.kg",
+        "qichiyu.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "1.0.0.1/32",
+        "1.1.1.1/32",
+        "185.222.222.222/32",
+        "208.67.220.220/32",
+        "208.67.222.222/32",
+        "8.8.4.4/32",
+        "8.8.8.8/32"
+      ]
+    }
+  ],
+  "version": 2
+}
